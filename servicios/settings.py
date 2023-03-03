@@ -60,8 +60,8 @@ CORS_ALLOWED_ORIGINS = [
     "http://localhost:4200",
     "http://127.0.0.1:4200",
     "http://127.0.0.1:8000",
-    "https://arquitecturaback-production.up.railway.app"
-    "https://arquitectura-front.vercel.app/"
+    "https://arquitecturaback-production.up.railway.app",
+    "https://arquitectura-front.vercel.app"
     
 ]
 
